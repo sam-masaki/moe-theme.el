@@ -667,7 +667,7 @@ Moe, moe, kyun!")
 
    ;; Flyspell faces
    `(flyspell-duplicate ((,class (:underline t foreground-color,orange-1))))
-   `(flyspell-incorrect ((,class (:background ,red-1 :foreground ,white-0 :bold t))))
+   `(flyspell-incorrect ((,class (:underline (:color ,red-1 :style wave)))))
 
    ;; Semantic faces
    `(semantic-decoration-on-includes ((,class (:underline ,black-1))))
