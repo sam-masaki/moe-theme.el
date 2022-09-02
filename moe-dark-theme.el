@@ -48,7 +48,7 @@ Moe, moe, kyun!")
       (magenta-0 "#ffafd7") (magenta-00 "#ffd7ff")
       (orange-0 "#ffaf87") (orange-00 "#ffd787") (orange-000 "#ffd7af")
       (linum-dark "#87875f") (linum-light "#d7d7af")
-      (comment-green "#6c906c")
+      (comment-green "#9cb09f")
       )
   ;; Customize color
   (defconst -moe-dark-bg                         black-5)
